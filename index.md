@@ -2,7 +2,7 @@
 
 # Build your own CIMON for home use
 
-Very likely you heard about CIMON, the first AI astronaut assistancs system that is currently being tested on the [ISS](http://www.ustream.tv/channel/live-iss-stream). Having seen this in the news the tought came to mind: can you build this yourself for use at home?
+Very likely you heard about [CIMON](https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10081/151_read-26307/#/gallery/29911), the first AI astronaut assistancs system that is currently being tested on the [ISS](http://www.ustream.tv/channel/live-iss-stream). Having seen this in the news the tought came to mind: can you build this yourself for use at home?
 
 This is the place where we want to try and build a CIMON like home assistant.
 
