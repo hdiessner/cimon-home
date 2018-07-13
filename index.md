@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## CIMON@home
 
-You can use the [editor on GitHub](https://github.com/hdiessner/cimon-home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Build your own CIMON for home use
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Very likely you heard about CIMON, the first AI astronaut assistancs system that is currently being tested on the [ISS](http://www.ustream.tv/channel/live-iss-stream). Having seen this in the news the tought came to mind: can you build this yourself for use at home?
 
-### Markdown
+This is the place where we want to try and build a CIMON like home assistant.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Over on [Thingiverse](https://www.thingiverse.com/thing:2949975), there's already a design available for 3D printing. If you print it with 50% scale on all axes, your CIMON@home would be handy but still big enough to hold a Raspberry Pi with a Display, Camera, Microphone(s) and Speaker.
 
-```markdown
-Syntax highlighted code block
+As the original CIMON is using heavily cloud services, the hardware setup of you CIMON@home would be sufficient to use cloud services aswell.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hdiessner/cimon-home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+N.B. This is work / trial in progress - so don't expect a documentation or how-to to build your own rather see this page as an inspiration for how you can try and explore yourself! Have fun!
