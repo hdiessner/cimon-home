@@ -1,9 +1,7 @@
 ## First Steps
 # Let's get it started
 As a first step, I printed the CIMON Design from Thingiverse with a scaling of 50% for all axes.
-![This is the first picture]({{ "IMG_4700.JPG" }})
-below:
-![My helpful screenshot]({{ "/assets/screenshot.jpg" | absolute_url }})
+![This is the first picture](./IMG_4700.JPG)
 
 # Raspberry
 Then I took a Raspberry Pi 3 and added a 3.5" GPIO Touch Display to it.
