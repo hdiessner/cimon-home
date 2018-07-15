@@ -11,3 +11,5 @@ Over on [Thingiverse](https://www.thingiverse.com/thing:2949975), there's alread
 As the original CIMON is using heavily cloud services, the Pi hardware setup of you CIMON@home would be sufficient to use cloud services aswell.
 
 N.B. This is work / trial in progress - so don't expect a documentation or how-to to build your own - rather see this page as an inspiration for how you can try and explore yourself! Have fun!
+
+![These are the first steps](./firststeps.md)
