@@ -1,12 +1,14 @@
-##First Steps
-#Let's get it started
+## First Steps
+# Let's get it started
 As a first step, I printed the CIMON Design from Thingiverse with a scaling of 50% for all axes.
 ![This is the first picture]({{ "IMG_4700.JPG" }})
+below:
+![My helpful screenshot]({{ "/assets/screenshot.jpg" | absolute_url }})
 
-#Raspberry
+# Raspberry
 Then I took a Raspberry Pi 3 and added a 3.5" GPIO Touch Display to it.
 
-#Installation Steps
+# Installation Steps
 In very short, this is what I did so far:
 - install latest raspbian
 - enable ssh -> in boot Partition: touch ssh
