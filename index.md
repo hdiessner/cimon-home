@@ -12,4 +12,6 @@ As the original CIMON is using heavily cloud services, the Pi hardware setup of 
 
 N.B. This is work / trial in progress - so don't expect a documentation or how-to to build your own - rather see this page as an inspiration for how you can try and explore yourself! Have fun!
 
-![These are the first steps](./firststeps.md)
+[These are the first steps](./firststeps.md)
+
+![This is the first picture](./IMG_4700.JPG)
