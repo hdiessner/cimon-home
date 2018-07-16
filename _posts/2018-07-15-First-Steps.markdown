@@ -52,3 +52,7 @@ make
 sudo make install
 sudo apt-get install libmatchbox1 -y
 {% endhighlight %}
+
+First Picture of my CIMON@home:
+
+![image-title-here](/cimonathome/assets/IMG_4700.JPG){:class="img-responsive"}
