@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   CIMON is the first AI powered astronaut assistant currently being tested on the Internation Space Station (ISS) by ISS Commander Alexander Gerst.
   CIMON was developed by Airbus and ESA and is heavily using cloud services for speech to text and text to speech as well as cognitive applications.
   These cloud services are also available to everybody so essentially you can build your CIMON at home.
-baseurl: "cimonathome" # the subpath of your site, e.g. /blog
+baseurl: "/cimonathome" # the subpath of your site, e.g. /blog
 url: "https://hdiessner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SternwarteF
 github_username:  hdiessner@gmx.net
