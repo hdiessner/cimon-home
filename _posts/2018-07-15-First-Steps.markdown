@@ -38,7 +38,7 @@ add: Option "TransformationMatrix" "0 -1 1 1 0 0 0 0 1"
 {% endhighlight %}
 
 Calibrate Touch...
-	https://github.com/notro/fbtft/issues/445
+	[https://github.com/notro/fbtft/issues/445](https://github.com/notro/fbtft/issues/445)
 
 Install Virtual Keyboard:
 	http://ozzmaker.com/virtual-keyboard-for-the-raspberry-pi/
