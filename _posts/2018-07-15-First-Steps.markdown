@@ -7,7 +7,6 @@ categories: cimon update
 
 # Let's get it started
 As a first step, I printed the CIMON Design from Thingiverse with a scaling of 50% for all axes.
-![This is the first picture](./IMG_4700.JPG)
 
 # Raspberry
 Then I took a Raspberry Pi 3 and added a 3.5" GPIO Touch Display to it.
@@ -22,7 +21,7 @@ sudo apt-get update
 sudo apt-get upgrade
 {% endhighlight %}
 
-For my display, followed: https://github.com/goodtft/LCD-show
+For my display, followed: [https://github.com/goodtft/LCD-show](https://github.com/goodtft/LCD-show)
 {% highlight ruby %}
 sudo rm -rf LCD-show
 git clone https://github.com/goodtft/LCD-show.git
@@ -41,7 +40,7 @@ Calibrate Touch...
 	[https://github.com/notro/fbtft/issues/445](https://github.com/notro/fbtft/issues/445)
 
 Install Virtual Keyboard:
-	http://ozzmaker.com/virtual-keyboard-for-the-raspberry-pi/
+	[http://ozzmaker.com/virtual-keyboard-for-the-raspberry-pi/](http://ozzmaker.com/virtual-keyboard-for-the-raspberry-pi/)
 
 {% highlight ruby %}
 sudo apt-get install libfakekey-dev libpng-dev libxft-dev autoconf libtool -y
